@@ -1,0 +1,27 @@
+.inline-block {
+    padding-top: 35px;
+    padding-left: 30px;
+    padding-bottom: 106px;
+}
+
+.inline-block img {
+    display: inline-block;
+    margin-right: 18px;
+}
+
+.inline-block-text {
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.inline-block-text span {
+    display: block;
+}
+
+.inline-block-text span:first-of-type {
+    margin-bottom: 9px;
+}
+
+.inline-block-text span:last-of-type {
+    margin-bottom: 20px;
+}
