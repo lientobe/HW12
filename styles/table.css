@@ -1,0 +1,32 @@
+.table {
+    height: 241px;
+    width: 100%;
+    padding-top: 35px;
+    padding-left: 30px;
+    padding-bottom: 106px;
+}
+
+.table-content {
+    display: table;
+}
+
+.tr {
+    display: table-row;
+}
+
+.td {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.table-text {
+    padding-left: 18px;
+}
+
+.table-text span {
+    display: block;
+}
+
+.table-text span:first-of-type {
+    margin-bottom: 9px;
+}

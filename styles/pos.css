@@ -1,0 +1,23 @@
+.position {
+    position: relative;
+    height: 240px;
+}
+.position img {
+    position: absolute;
+    top: 35px;
+    left: 30px;
+}
+
+.position-text {
+    position: absolute;
+    left: 148px;
+    top: 57px
+}
+
+.position-text span {
+    display: block;
+}
+
+.position-text span:first-of-type {
+    margin-bottom: 9px;
+}

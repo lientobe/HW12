@@ -1,0 +1,21 @@
+.back {
+    height: 241px;
+    width: 100%;
+    background-image: url("../img/man.png");
+    background-repeat: no-repeat;
+    background-size: 100px;
+    background-position: 30px 35px;
+}
+
+.back-text {
+    margin-left: 150px;
+    padding-top: 59px;
+}
+
+.back-text span {
+    display: block;
+}
+
+.back-text span:first-of-type {
+    margin-bottom: 9px;
+}

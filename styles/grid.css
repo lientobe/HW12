@@ -1,0 +1,14 @@
+.grid {
+    padding-top: 35px;
+    padding-left: 30px;
+    padding-bottom: 106px;
+    display: grid;
+    grid-template-columns: 118px 150px;
+}
+
+
+.grid-text {
+    padding-top: 20px;
+    display: grid;
+    grid-auto-rows: 35px;
+}

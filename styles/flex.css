@@ -1,0 +1,23 @@
+.flex {
+    padding-top: 35px;
+    padding-left: 30px;
+    padding-bottom: 106px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flex img {
+    margin-right: 18px;
+}
+
+.flex-text {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.flex-text span:first-of-type {
+    margin-bottom: 9px;
+}

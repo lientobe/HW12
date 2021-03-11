@@ -1,0 +1,29 @@
+.table-html {
+    height: 241px;
+    padding-top: 35px;
+    padding-left: 30px;
+    padding-bottom: 106px;
+}
+
+td {
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 1.16;
+    color: #000000;
+    padding-top: 5px;
+}
+
+.name {
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 1.16;
+    color: #000000;
+    vertical-align: bottom;
+    padding-bottom: 4px;
+    height: 50px;
+}
+
+td img {
+    margin-right: 20px;
+    padding: 0;
+}
